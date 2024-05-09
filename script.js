@@ -51,7 +51,7 @@ const songs = [
     artist: ".Feast",
   },
   {
-    path: "bahan/peradaban.mp3",
+    path: "bahan/Peradaban.mp3",
     displayName: "Peradaban",
     cover: "bahan/Feast_-_Peradaban.jpg",
     artist: ".Feast",
