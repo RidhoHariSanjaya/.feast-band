@@ -7,7 +7,7 @@ const image = document.getElementById("cover"),
   playerProgress = document.getElementById("player-progress"),
   prevBtn = document.getElementById("prev"),
   nextBtn = document.getElementById("next"),
-  playBtn = document.getElementById("play"),
+  playBtn = document.getElementById("Mulai"),
   background = document.getElementById("bg-img");
 
 const music = new Audio();
