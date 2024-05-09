@@ -14,12 +14,6 @@ const music = new Audio();
 
 const songs = [
   {
-    path: "bahan/peradaban.mp3",
-    displayName: "Peradaban",
-    cover: "bahan/Feast_-_Peradaban.jpg",
-    artist: ".Feast",
-  },
-  {
     path: "bahan/Berita Kehilangan (feat. Rayssa Dynta).mp3",
     displayName: "Berita Kehilangan",
     cover: "bahan/Feast_ft._Rayssa_Dynta_-_Berita_Kehilangan.jpg",
@@ -54,6 +48,12 @@ const songs = [
     path: "bahan/Maju.mp3",
     displayName: "Maju",
     cover: "bahan/Maju.jpg",
+    artist: ".Feast",
+  },
+  {
+    path: "bahan/peradaban.mp3",
+    displayName: "Peradaban",
+    cover: "bahan/Feast_-_Peradaban.jpg",
     artist: ".Feast",
   },
 ];
